@@ -10,7 +10,7 @@ $notification = $bon->ContactUs();
 <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
-<link href="images/favicon.png" rel="icon" />
+<link href="images/favicon.ico" rel="icon" />
 <title>Welcome To Helium Writers - We Create It A Duty To Tell Your Story</title>
 <meta name="description" content="Helium Writers - We Create It A Duty To Tell Your Story.">
 <meta name="author" content="heliumwriters.com">
@@ -65,7 +65,7 @@ $notification = $bon->ContactUs();
                     <h2 class="text-17 font-weight-600 text-white text-uppercase mb-0">writing</h2>
                     <span class="border-bottom border-top py-1 border-primary border-1 d-block"></span> </div>
                 </div>
-                <p class="lead text-white mt-3 mb-0">We Write, You Take the Glory.</p>
+                <p class="lead text-white mt-3 mb-0">We Write, You Fame It.</p>
               </div>
             </div>
           </div>
@@ -347,14 +347,14 @@ $notification = $bon->ContactUs();
               <div class="col-md-6">
                 <div class="featured-box style-3 mb-5">
                   <div class="featured-box-icon text-primary border border-primary border-4 rounded-circle"> <span class="text-8 font-weight-600">1</span></div>
-                  <h3 class="text-5 text-white">Planning & Consulting</h3>
+                  <h3 class="text-5 text-white">Consultation</h3>
                   <p class="text-3 text-muted font-weight-300 mb-0">At this point, you request a quote, and we assign a professional to you to start discussing your ideas to understand your aims and objectives.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="featured-box style-3 mb-5">
                   <div class="featured-box-icon text-primary border border-primary border-4 rounded-circle"> <span class="text-8 font-weight-600">2</span></div>
-                  <h3 class="text-5 text-white">Content</h3>
+                  <h3 class="text-5 text-white">Brainstorming and Development</h3>
                   <p class="text-3 text-muted font-weight-300 mb-0">We listen to your ideas and proceed to our writing room to provide a clarity work to 
 				  your work. We do this so we clearly understand your needs.</p>
                 </div>
@@ -362,14 +362,14 @@ $notification = $bon->ContactUs();
               <div class="col-md-6">
                 <div class="featured-box style-3 mb-5">
                   <div class="featured-box-icon text-primary border border-primary border-4 rounded-circle"> <span class="text-8 font-weight-600">3</span></div>
-                  <h3 class="text-5 text-white">Conception</h3>
+                  <h3 class="text-5 text-white">Design</h3>
                   <p class="text-3 text-muted font-weight-300 mb-0">We work with you to provide a structure for your work and also a project milestone.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="featured-box style-3 mb-5">
                   <div class="featured-box-icon text-primary border border-primary border-4 rounded-circle"> <span class="text-8 font-weight-600">4</span></div>
-                  <h3 class="text-5 text-white">Design & Development</h3>
+                  <h3 class="text-5 text-white">Implementation</h3>
                   <p class="text-3 text-muted font-weight-300 mb-0">At this point, we dive into work and start working on the idea. 
 				  This is where we ensure your idea begins to speak life. We ensure you have a total knowledge of the entire process. 
 				  Once any milestone is completed, we send to you for perusal and feedback before continuing into the next phase.</p>
@@ -378,7 +378,7 @@ $notification = $bon->ContactUs();
               <div class="col-md-6">
                 <div class="featured-box style-3 mb-5">
                   <div class="featured-box-icon text-primary border border-primary border-4 rounded-circle"> <span class="text-8 font-weight-600">5</span></div>
-                  <h3 class="text-5 text-white">Final discussion</h3>
+                  <h3 class="text-5 text-white">Proofreading</h3>
                   <p class="text-3 text-muted font-weight-300 mb-0">Nothing satisifies a client like seeing a dream come true. 
 				  Because we care, we ensure your book is reviewed by you and sent passes through our editors and proofreaders. 
 				  Also, because we want to deliver an authentic work, we ensure it passes through our plagiarism system. The result of the plagiarism software is attached to the final work we deliver to you.
@@ -388,7 +388,7 @@ $notification = $bon->ContactUs();
               <div class="col-md-6">
                 <div class="featured-box style-3 mb-5 mb-md-0">
                   <div class="featured-box-icon text-primary border border-primary border-4 rounded-circle"> <span class="text-8 font-weight-600">6</span></div>
-                  <h3 class="text-5 text-white">Delivery & Launch</h3>
+                  <h3 class="text-5 text-white">Delivery</h3>
                   <p class="text-3 text-muted font-weight-300 mb-0">At this stage, you are good to go for publishing. 
 				  However, if you are not conversant with publishing and marketing your book. We can help you to achieve this.</p>
                 </div>
