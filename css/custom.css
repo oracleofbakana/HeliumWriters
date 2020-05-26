@@ -1,0 +1,15 @@
+.yellow-dark {
+  background-image: -moz-linear-gradient( -84deg, rgb(232,156,10) 0%, rgb(224,80,7) 70%, rgb(215,3,3) 100%);
+  background-image: -webkit-linear-gradient( -84deg, rgb(232,156,10) 0%, rgb(224,80,7) 70%, rgb(215,3,3) 100%);
+  background-image: -ms-linear-gradient( -84deg, rgb(232,156,10) 0%, rgb(224,80,7) 70%, rgb(215,3,3) 100%);
+
+}
+.bg-yellow{background-color: #f28021;}
+.black_text{color: #000000!important}
+.white_text{color: #ffffff!important}
+.bg_red{background-color: #af1e24}
+
+.border-primary{border-color: #ffffff!important}
+.owl-theme .owl-dots .owl-dot{display: none}
+input::placeholder{color: #ffffff!important}
+.font_300{font-weight: 300}
