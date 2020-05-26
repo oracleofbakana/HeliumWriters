@@ -179,9 +179,8 @@ $notification = $bon->ContactUs();
             <div class="featured-box px-2">
               <div class="featured-box-icon text-light border-bottom"><span class="w-100 text-20 font-weight-500">02.</span></div>
               <h3 class="font-weight-600 mb-3">Less Stress, Optimum Results</h3>
-              <p class="text-3 text-muted">Our major concern is to ensure that you don't weighed down from the burden of writing. 
-							We take the stress off you and produce excellent results simultaneously. 
-							With us, your work doesn't suffer. If it's yours, it's ours.</p>
+              <p class="text-3 text-muted">Our major concern is to ensure that you don't weighed down from the burden of writing and
+						 produce excellent results. If it's yours, it's ours.</p>
             </div>
           </div>
           <div class="col-sm-6 col-lg-3">
@@ -197,7 +196,7 @@ $notification = $bon->ContactUs();
               <div class="featured-box-icon text-light border-bottom"><span class="w-100 text-20 font-weight-500">04.</span></div>
               <h3 class="font-weight-600 mb-3">Affordable Pricing Plan</h3>
               <p class="text-3 text-muted">Here at Helium Writers, we offer our best services without breaking your bank. 
-							Our services are premium with affordable price plan. You can get that work done at affordable rates.</p>
+							Our services are premium with affordable price plan. </p>
             </div>
           </div>
         </div>
