@@ -16,13 +16,6 @@ RewriteRule ^(.*)$ $1.php [NC,L]
 
 RewriteRule ^index index.php [NC,L]
 #RewriteRule ^about about.php [NC,L]
-#RewriteRule ^contact contact.php [NC,L]
-#RewriteRule ^services services.php [NC,L]
-#RewriteRule ^graphics_design graphics_design.php [NC,L]
-#RewriteRule ^portfolio portfolio.php [NC,L]
-#RewriteRule ^social_media_advertisement social_media_advertisement.php [NC,L]
-#RewriteRule ^social_media_management social_media_management.php [NC,L]
-#RewriteRule ^web_development web_development.php [NC,L]
 
 # php -- BEGIN cPanel-generated handler, do not edit
 # Set the “ea-php73” package as the default “PHP” programming language.
