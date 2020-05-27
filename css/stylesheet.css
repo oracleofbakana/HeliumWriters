@@ -2649,7 +2649,7 @@ hr {
   top: 10px;
   width: 4px;
   z-index: 0;
-  background: #fff;
+  background: #f2f2f2;
   box-shadow: 0 0rem 1.5rem rgba(0, 0, 0, 0.1);
 }
 
@@ -2657,9 +2657,9 @@ hr {
   clear: both;
   content: ' ';
   display: block;
-  width: 20px;
-  height: 20px;
-  background: #af1e24;
+  width: 22px;
+  height: 22px;
+  background: #f38c3b;
   z-index: 1;
   position: absolute;
   border: 7px solid #fff;
@@ -2677,7 +2677,7 @@ hr {
 .workflow .workflow-item .workflow-icon {
   width: 150px;
   height: 150px;
-  background: #a60306;
+  background: #f28021;
   text-align: center;
   border-radius: 50%;
   display: -ms-flexbox;
@@ -3251,8 +3251,7 @@ select.form-control:not([size]):not([multiple]):not(.form-control-sm) {
 }
 
 .text-light {
-  color:    color: rgba(242, 128, 33, 0.61) !important;
-
+  color: rgba(37, 43, 51, 0.37) !important
 }
 
 .text-body {

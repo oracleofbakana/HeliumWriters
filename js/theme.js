@@ -45,7 +45,7 @@
             a(this).owlCarousel({
                 autoplay: e.data("autoplay"),
                 center: e.data("center"),
-                autoplayTimeout: e.data("autoplaytimeout"),
+                autoplayTimeout: 8000,
                 autoplayHoverPause: e.data("autoplayhoverpause"),
                 loop: e.data("loop"),
                 speed: e.data("speed"),
