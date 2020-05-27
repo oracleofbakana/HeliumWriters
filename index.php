@@ -362,15 +362,15 @@ $notification = $bon->ContactUs();
                 <div class="featured-box style-3 mb-5">
                   <div class="featured-box-icon text-primary border border-primary border-4 rounded-circle"> <span class="text-8 font-weight-600">3</span></div>
                   <h3 class="text-5 text-white">Design</h3>
-                  <p class="text-3 text-muted font-weight-300 mb-0">We work with you to provide a structure for your work and also a project milestone.</p>
+                  <p class="text-3 text-muted font-weight-300 mb-0">We work with you to provide a structure for your work and also design a complimentary project milestone.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="featured-box style-3 mb-5">
                   <div class="featured-box-icon text-primary border border-primary border-4 rounded-circle"> <span class="text-8 font-weight-600">4</span></div>
                   <h3 class="text-5 text-white">Implementation</h3>
-                  <p class="text-3 text-muted font-weight-300 mb-0">At this point, we dive into work and start working on the idea. 
-				  This is where we ensure your idea begins to speak life. We ensure you have a total knowledge of the entire process. 
+                  <p class="text-3 text-muted font-weight-300 mb-0">We start work on your idea.  
+				  This is where we ensure your idea begins to speak life.
 				  Once any milestone is completed, we send to you for perusal and feedback before continuing into the next phase.</p>
                 </div>
               </div>
