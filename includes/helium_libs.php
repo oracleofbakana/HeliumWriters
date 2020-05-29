@@ -408,20 +408,25 @@ public function __construct(){
 			//Server settings
 		//	$mail->SMTPDebug = PHPMailer\PHPMailer\SMTP::DEBUG_SERVER;                      // Enable verbose debug output
 			$mail->isSMTP();                                            // Send using SMTP
+			$mail->SMTPOptions = array(
+			'ssl' => array(
+			'verify_peer' => false,
+			'verify_peer_name' => false,
+			'allow_self_signed' => true
+			)
+			);
 			$mail->Host       = 'localhost';               // Set the SMTP server to send through
 			$mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-			$mail->Username   = 'trainings@bonjourdapper.com';                             // SMTP username
-			$mail->Password   = 'Bonjour&Dapper@1991#';                       // SMTP password
+			$mail->Username   = 'hello@heliumwriters.com';                             // SMTP username
+			$mail->Password   = 'Helium@May@2020';                       // SMTP password
 			//$mail->SMTPSecure = PHPMailer\PHPMailer\PHPMailer::ENCRYPTION_STARTTLS;         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` also accepted
 			$mail->Port       = 25;                                    // TCP port to connect to
 
 			//Recipients
-			$mail->setFrom($from, 'Bonjour Dapper Team');
+			$mail->setFrom($from, 'Helium Writers Team');
 			$mail->addAddress($to, $to_name);     				// Add a recipient
-			//$mail->addAddress($to_name, $to_name);               // Name is optional
-			$mail->addReplyTo('dapper@bonjourdapper.com', 'William Dapper');
-			$mail->addCC('bonjourdapper@gmail.com');
-			$mail->addBCC('fiafiam20@gmail.com');
+			$mail->addReplyTo('hello@heliumwriters.com', 'William Dapper');
+			$mail->addCC('dkw.dapper@gmail.com');
 		
 			// Content
 			$mail->isHTML(true);                                  // Set email format to HTML

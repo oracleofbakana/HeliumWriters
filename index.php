@@ -7,6 +7,16 @@ $notification = $bon->ContactUs();
 <html lang="en">
 
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167975838-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-167975838-1');
+</script>
+
 <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
@@ -191,7 +201,7 @@ $notification = $bon->ContactUs();
             <div class="featured-box px-2">
               <div class="featured-box-icon text-light border-bottom"><span class="w-100 text-20 font-weight-500">02.</span></div>
               <h3 class="font-weight-600 mb-3">Less Stress, Optimum Results</h3>
-              <p class="text-3 black_text font_300">Our major concern is to ensure that you don't weighed down from the burden of writing and
+              <p class="text-3 black_text font_300">Our major concern is to ensure that you don't get weighed down from the burden of writing and
 						 produce excellent results. If it's yours, it's ours.</p>
             </div>
           </div>
@@ -352,7 +362,7 @@ $notification = $bon->ContactUs();
             <div class="container px-lg-4 px-xl-5">
                 <h2 class="text-center font-weight-600 text-uppercase black_text mb-3" style="font-family: 'Fredoka One', Poppins, sans-serif, cursive; ">How It Works</h2>
                 <p class="text-5 text-center mb-5 black_text">
-                    Delivering work within time and budget which meets client’s requirements is our moto.
+                    Delivering work within time and budget which meets client’s requirements is our motto.
                 </p>
                 <div class="workflow">
                     <div class="row">

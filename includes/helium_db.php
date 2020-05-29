@@ -1,8 +1,8 @@
 <?php
 // used to connect to the database
 		/* $db_host = "localhost";
-		  $db_name = "helium_db";
-		 $db_username = "helium_user";
+		  $db_name = "heliumwr_helium_db";
+		 $db_username = "heliumwr_hel_wri";
 		 $db_password = "Helium@May2020";  */
 		 
 	 $db_name = "helium_db";
